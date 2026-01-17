@@ -144,3 +144,4 @@ output/
 data/quran.sqlite
 
 .idea/
+package-lock.json
